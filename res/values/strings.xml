@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="saveDB">Сохранить данные</string>
+    <string name="infoDB">Получить данные</string>
+    <string name="clearDB">Очистить таблицу</string>
+    <string name="name">Имя</string>
+    <string name="lastname">Фамилия</string>
+    <string name="age">Возраст</string>
+    <string name="role">Должность</string>
+    <string name="ageET">Введите возраст</string>
+    <string name="lastNameET">Введите фамилию</string>
+    <string name="nameET">Введите имя</string>
+    <string name="DB">База Данных</string>
+</resources>
